@@ -11,8 +11,8 @@
 - `Resource`、`ResourceFile`、`OffsetLen`：描述要传的文件和还没收到的片段
 - `ProgressBar`：传输进度
 
-源码在 `多文件局域网传输/src`，包名 `com.mec.mfct`。目录是当时的 Eclipse 工程。传输层用到同系列的 `MyRmi.jar`（[mini-rmi](https://github.com/ailan-aoi/mini-rmi)）。
+源码在 `lan-file-transfer/src`，包名 `com.mec.mfct`。目录是当时的 Eclipse 工程。传输层用到同系列的 `MyRmi.jar`（[mini-rmi](https://github.com/ailan-aoi/mini-rmi)）。
 
 ## 状态
 
-学习代码，源码按最初上传的样子保留。旧地址 `easyFileTans` 会重定向到这里。
+学习代码，Java 包名和实现按最初上传的样子保留。旧地址 `easyFileTans` 会重定向到这里。
